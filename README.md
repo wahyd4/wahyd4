@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m still working on my readme🏗🚧👷‍♂️
+
 <!--
 **wahyd4/wahyd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Air Index](https://badge.home.toozhao.com/svg/mel)
+![Dockerhub Pull](https://badge.home.toozhao.com/svg/dockerhub)
+![Github Star](https://badge.home.toozhao.com/svg/github)
