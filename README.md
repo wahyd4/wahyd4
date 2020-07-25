@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m still working on my readme🏗🚧👷‍♂️
+🔭  Welcome to my Github profile, it's still under construction. 🏗🚧👷‍♂️
 
 <!--
 **wahyd4/wahyd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Air Index](https://badge.home.toozhao.com/svg/mel)
-![Dockerhub Pull](https://badge.home.toozhao.com/svg/dockerhub)
-![Github Star](https://badge.home.toozhao.com/svg/github)
+![Air Index](https://badge.home.toozhao.com/svg/mel) I am currently live in Melbourne, that's the current air quality.
+
+[![Dockerhub Pull](https://badge.home.toozhao.com/svg/dockerhub)](https://github.com/wahyd4/aria2-ariang-docker) I have a docker image which has been pulled more than 1 millions times.
+
+![Github Star](https://badge.home.toozhao.com/svg/github) That's the liked number from one of my open sourced repo
