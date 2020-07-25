@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ![Air Index](https://badge.home.toozhao.com/svg/mel) I am currently live in Melbourne, that's the current air quality.
 
-[![Dockerhub Pull](https://badge.home.toozhao.com/png/dockerhub)](https://github.com/wahyd4/aria2-ariang-docker) I have a docker image which has been pulled more than 1 millions times.
+[![Dockerhub Pull](https://badge.home.toozhao.com/svg/dockerhub)](https://github.com/wahyd4/aria2-ariang-docker) I have a docker image which has been pulled more than 1 millions times.
 
-![Github Star](https://badge.home.toozhao.com/svg/github) That's the liked count from one of my open sourced repo
+![Github Star](https://badge.home.toozhao.com/png/github) That's the liked count from one of my open sourced repo
