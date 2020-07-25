@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi/你好 👋
 
 🔭  Welcome to my Github profile, it's still under construction. 🏗🚧👷‍♂️
 
