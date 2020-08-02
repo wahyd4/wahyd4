@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Air Index](https://badge.home.toozhao.com/svg/chengdu) The current air quality of Chengdu where I came from
+![Chengdu Air Index](https://badge.home.toozhao.com/svg/chengdu) The current air quality of Chengdu where I came from
 
-![Air Index](https://badge.home.toozhao.com/svg/mel) I am currently live in Melbourne, that's the current air quality.
+![Mel Air Index](https://badge.home.toozhao.com/svg/mel) I am currently live in Melbourne, that's the current air quality.
 
 [![Dockerhub Pull](https://badge.home.toozhao.com/svg/dockerhub)](https://github.com/wahyd4/aria2-ariang-docker) I have a docker image which has been pulled more than 1 millions times.
 
