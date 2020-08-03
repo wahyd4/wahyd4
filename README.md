@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 [![Dockerhub Pull](https://badge.home.toozhao.com/svg/dockerhub)](https://github.com/wahyd4/aria2-ariang-docker) I have a docker image which has been pulled more than 1 millions times.
 
 ![Github Star](https://badge.home.toozhao.com/svg/github) That's the liked count from one of my open sourced repo
+
+
+
+![Badge request Counts](https://badge.home.toozhao.com/svg/badge-requests-count) Last but not least, my custom Badge service has been requested this times.
