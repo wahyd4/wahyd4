@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 
 
-![Badge request Counts](https://badge.home.toozhao.com/svg/badge-requests-count) Last but not least, my custom Badge service has been requested this times.
+Last but not least, This profile page has been viewed ![Badge request Counts](https://badge.home.toozhao.com/svg/junv-github-profile) since badge service enabled: 
