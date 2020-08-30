@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 
 
-Last but not least, This profile page has been viewed ![Badge request Counts](https://badges.toozhao.com/svg/junv-github-profile) since badge service enabled: 
+<a href="https://badges.toozhao.com" alt="Generate your badge to count for any page views at https://badges.toozhao.com"><img src="https://badges.toozhao.com/svg/junv-github-profile" width=500/></a>
