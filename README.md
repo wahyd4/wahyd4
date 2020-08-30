@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://badges.toozhao.com" alt="Generate your badge to count for any page views at https://badges.toozhao.com"><img src="https://badges.toozhao.com/svg/junv-github-profile" width=500/></a>
+<a href="https://badges.toozhao.com" title="Generate your badge to count for any page views at https://badges.toozhao.com"><img src="https://badges.toozhao.com/svg/junv-github-profile" width=500/></a>
