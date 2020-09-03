@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ![Github Star](https://badges.toozhao.com/svg/github) That's the liked count from one of my open sourced repo
 
+[![Junwei's github stats](https://github-readme-stats.vercel.app/api?username=wahyd4)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://badges.toozhao.com" title="Generate your badge to count for any page views at https://badges.toozhao.com"><img src="https://badges.toozhao.com/svg/junv-github-profile" width=500/></a>
