@@ -1,6 +1,6 @@
 ### Hi/你好 👋
 
-🔭  Welcome to my Github profile, it's still under construction. 🏗🚧👷‍♂️
+🔭  Welcome to my Github profile
 
 <!--
 **wahyd4/wahyd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
