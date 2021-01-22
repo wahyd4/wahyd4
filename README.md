@@ -16,15 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-![Chengdu Air Index](https://badges.toozhao.com/svg/chengdu) The current air quality of Chengdu where I came from
-![Mel Air Index](https://badges.toozhao.com/svg/mel) I am currently live in Melbourne, that's the current air quality.
-[![Dockerhub Pull](https://badges.toozhao.com/svg/dockerhub)](https://github.com/wahyd4/aria2-ariang-docker) I have a docker image which has been pulled more than 1 millions times.
-![Github Star](https://badges.toozhao.com/svg/github) That's the liked count from one of my open sourced repo
--->
 
-[![Junwei's github stats](https://github-readme-stats.vercel.app/api?username=wahyd4)](https://github.com/anuraghazra/github-readme-stats)
+![Chengdu Air Index](https://badges.toozhao.com/svg/chengdu) The current air quality of Chengdu where I came from.  
+![Mel Air Index](https://badges.toozhao.com/svg/mel) The current air quality in Melbourne where I'm currently live in.   
+[![Dockerhub Pull](https://badges.toozhao.com/svg/dockerhub)](https://github.com/wahyd4/aria2-ariang-docker) That's the pull count of a docker image I made.
 
-<!--
-<a href="https://badges.toozhao.com" title="Generate your badge to count for any page views at https://badges.toozhao.com"><img src="https://badges.toozhao.com/svg/junv-github-profile" width=500/></a>
--->
+[![Junwei's github stats](https://github-readme-stats.vercel.app/api?username=wahyd4)](https://github.com/anuraghazra/github-readme-stats)  
+
+<a href="https://badges.toozhao.com" title="Generate your badge to count for any page views at https://badges.toozhao.com"><img src="https://badges.toozhao.com/svg/junv-github-profile" width=120/></a>
