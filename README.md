@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 [![Junwei's github stats](https://github-readme-stats.vercel.app/api?username=wahyd4)](https://github.com/anuraghazra/github-readme-stats)  
 
-<a href="https://badges.toozhao.com/stats/junv-github-profile" title="Generate your badge to count for any page views at https://badges.toozhao.com"><img src="https://badges.toozhao.com/svg/junv-github-profile"></a>
+<a href="https://badges.toozhao.com/stats/junv-github-profile" title="Generate your badge to count for any page views at https://badges.toozhao.com"><img src="https://badges.toozhao.com/svg/junv-github-profile" width=500></a>
