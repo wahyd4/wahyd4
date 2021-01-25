@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Chengdu Air Index](https://badges.toozhao.com/svg/chengdu)]((https://badges.toozhao.com/stats/chengdu)) The current air quality of Chengdu where I came from.  
+[![Chengdu Air Index](https://badges.toozhao.com/svg/chengdu)](https://badges.toozhao.com/stats/chengdu) The current air quality of Chengdu where I came from.  
 [![Mel Air Index](https://badges.toozhao.com/svg/mel)](https://badges.toozhao.com/stats/mel) The current air quality in Melbourne where I'm currently live in.   
-[![Dockerhub Pull](https://badges.toozhao.com/svg/dockerhub)]((https://badges.toozhao.com/stats/dockerhub)) That's the pull count of a docker image I made.
+[![Dockerhub Pull](https://badges.toozhao.com/svg/dockerhub)](https://badges.toozhao.com/stats/dockerhub) That's the pull count of a docker image I made.
 
 [![Junwei's github stats](https://github-readme-stats.vercel.app/api?username=wahyd4)](https://github.com/anuraghazra/github-readme-stats)  
 
