@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 | [![Container Count](https://badges.toozhao.com/badges/k8s-container-count/green.svg)](https://badges.toozhao.com/stats/k8s-container-count) | Number of containers running on my home k8s currently |
 | [![Total Ram](https://badges.toozhao.com/badges/k8s-total-memory/green.svg)](https://badges.toozhao.com/stats/k8s-total-memory) | Total RAM of my K8s cluster in GB |
 | [![Used Ram](https://badges.toozhao.com/badges/k8s-used-memory/green.svg)](https://badges.toozhao.com/stats/k8s-used-memory) | Used RAM of my K8s cluster in GB |
-
 | [![Container Count](https://badges.toozhao.com/badges/junv-github-profile/blue.svg)](https://badges.toozhao.com/stats/junv-github-profile) | Current page views count! Click the badge to create yours |
 
 ### My Github stats
