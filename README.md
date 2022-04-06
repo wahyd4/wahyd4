@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 
 [![Junwei's github stats](https://github-readme-stats.vercel.app/api?username=wahyd4)](https://github.com/anuraghazra/github-readme-stats)  
 
+### Please consider sponoring me if you like my open source work
+👉 <https://github.com/sponsors/wahyd4>
