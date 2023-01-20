@@ -30,9 +30,6 @@ Here are some ideas to get you started:
 | [![CPU Utilization](https://badges.toozhao.com/badges/k8s-cpu-utilization/green.svg)](https://badges.toozhao.com/stats/k8s-cpu-utilization) | My K8s Cluster CPU Utilization |
 | [![Container Count](https://badges.toozhao.com/badges/junv-github-profile/blue.svg)](https://badges.toozhao.com/stats/junv-github-profile) | Current page views count! Click the badge to create yours |
 
-### My Github stats
-
-[![Junwei's github stats](https://github-readme-stats.vercel.app/api?username=wahyd4)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### Please consider sponoring me if you like my open source work
 👉 <https://github.com/sponsors/wahyd4>
